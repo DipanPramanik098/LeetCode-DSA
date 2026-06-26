@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0015-3sum) |
 | [0990-satisfiability-of-equality-equations](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0990-satisfiability-of-equality-equations) |
 ## Hash Table
 |  |
@@ -48,4 +49,12 @@
 |  |
 | ------- |
 | [0990-satisfiability-of-equality-equations](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0990-satisfiability-of-equality-equations) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
