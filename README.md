@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0015-3sum) |
 | [0990-satisfiability-of-equality-equations](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0990-satisfiability-of-equality-equations) |
 ## Hash Table
@@ -57,4 +58,12 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0015-3sum) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
