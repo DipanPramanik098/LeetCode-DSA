@@ -49,6 +49,7 @@
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0990-satisfiability-of-equality-equations](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0990-satisfiability-of-equality-equations) |
 ## Two Pointers
 |  |
@@ -70,4 +71,12 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0009-palindrome-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0032-longest-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
