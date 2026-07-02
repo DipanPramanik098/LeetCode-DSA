@@ -49,12 +49,14 @@
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0990-satisfiability-of-equality-equations](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0990-satisfiability-of-equality-equations) |
 ## Two Pointers
 |  |
 | ------- |
 | [0015-3sum](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0015-3sum) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -87,4 +89,8 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0021-merge-two-sorted-lists) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
