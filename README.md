@@ -73,6 +73,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0009-palindrome-number) |
+| [3783-mirror-distance-of-an-integer](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/3783-mirror-distance-of-an-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
