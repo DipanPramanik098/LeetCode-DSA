@@ -36,6 +36,7 @@
 | [0015-3sum](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0015-3sum) |
 | [0046-permutations](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0055-jump-game) |
 | [0746-min-cost-climbing-stairs](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0990-satisfiability-of-equality-equations](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0990-satisfiability-of-equality-equations) |
 ## Hash Table
@@ -83,6 +84,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0032-longest-valid-parentheses) |
+| [0055-jump-game](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0055-jump-game) |
 | [0509-fibonacci-number](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0746-min-cost-climbing-stairs) |
 ## Stack
@@ -111,4 +113,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0509-fibonacci-number) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
