@@ -36,6 +36,7 @@
 | [0015-3sum](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0015-3sum) |
 | [0046-permutations](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0213-house-robber-ii) |
@@ -121,4 +122,12 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0055-jump-game) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
