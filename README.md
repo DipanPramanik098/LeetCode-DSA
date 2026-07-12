@@ -42,6 +42,7 @@
 | [0051-n-queens](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0055-jump-game) |
+| [0118-pascals-triangle](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0213-house-robber-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0746-min-cost-climbing-stairs) |
@@ -92,6 +93,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0055-jump-game) |
+| [0118-pascals-triangle](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0509-fibonacci-number) |
