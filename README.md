@@ -146,4 +146,8 @@
 | ------- |
 | [0100-same-tree](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
