@@ -42,6 +42,7 @@
 | [0051-n-queens](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0055-jump-game) |
+| [0075-sort-colors](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0213-house-robber-ii) |
@@ -69,10 +70,12 @@
 | ------- |
 | [0015-3sum](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0075-sort-colors) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0075-sort-colors) |
 ## Binary Search
 |  |
 | ------- |
