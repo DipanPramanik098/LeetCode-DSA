@@ -38,6 +38,7 @@
 | [0001-two-sum](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0027-remove-element) |
 | [0046-permutations](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0054-spiral-matrix) |
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0075-sort-colors) |
 ## Sorting
