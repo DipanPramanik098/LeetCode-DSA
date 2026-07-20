@@ -50,6 +50,7 @@
 | [0518-coin-change-ii](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0990-satisfiability-of-equality-equations](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0990-satisfiability-of-equality-equations) |
+| [1260-shift-2d-grid](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
@@ -141,10 +142,12 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0054-spiral-matrix) |
+| [1260-shift-2d-grid](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/1260-shift-2d-grid) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0054-spiral-matrix) |
+| [1260-shift-2d-grid](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/1260-shift-2d-grid) |
 ## Tree
 |  |
 | ------- |
