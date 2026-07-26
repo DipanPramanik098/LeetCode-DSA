@@ -70,6 +70,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0459-repeated-substring-pattern](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0459-repeated-substring-pattern) |
+| [0504-base-7](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0504-base-7) |
 | [0990-satisfiability-of-equality-equations](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0990-satisfiability-of-equality-equations) |
 ## Two Pointers
 |  |
@@ -97,6 +98,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0009-palindrome-number) |
+| [0504-base-7](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
