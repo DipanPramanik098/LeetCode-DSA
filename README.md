@@ -70,6 +70,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0032-longest-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0058-length-of-last-word) |
 | [0459-repeated-substring-pattern](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0459-repeated-substring-pattern) |
 | [0504-base-7](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0504-base-7) |
 | [0990-satisfiability-of-equality-equations](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0990-satisfiability-of-equality-equations) |
