@@ -17,6 +17,7 @@
 | [0100-same-tree](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0207-course-schedule) |
+| [0279-perfect-squares](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0322-coin-change) |
 | [0785-is-graph-bipartite](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0785-is-graph-bipartite) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -104,6 +105,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0009-palindrome-number) |
+| [0279-perfect-squares](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0279-perfect-squares) |
 | [0504-base-7](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -119,6 +121,7 @@
 | [0118-pascals-triangle](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0518-coin-change-ii) |
