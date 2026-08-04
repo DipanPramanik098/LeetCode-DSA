@@ -59,12 +59,14 @@
 | [0990-satisfiability-of-equality-equations](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0990-satisfiability-of-equality-equations) |
 | [1260-shift-2d-grid](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3731-find-missing-elements](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0001-two-sum) |
 | [0496-next-greater-element-i](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/3731-find-missing-elements) |
 ## Union-Find
 |  |
 | ------- |
@@ -100,6 +102,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
