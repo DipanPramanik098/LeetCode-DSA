@@ -57,6 +57,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0746-min-cost-climbing-stairs](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0990-satisfiability-of-equality-equations](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0990-satisfiability-of-equality-equations) |
+| [1049-last-stone-weight-ii](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/1049-last-stone-weight-ii) |
 | [1260-shift-2d-grid](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3731-find-missing-elements](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/3731-find-missing-elements) |
@@ -138,6 +139,7 @@
 | [0509-fibonacci-number](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0746-min-cost-climbing-stairs) |
+| [1049-last-stone-weight-ii](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/1049-last-stone-weight-ii) |
 ## Stack
 |  |
 | ------- |
@@ -208,4 +210,12 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
+## Knapsack Problem
+|  |
+| ------- |
+| [1049-last-stone-weight-ii](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/1049-last-stone-weight-ii) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [1049-last-stone-weight-ii](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/1049-last-stone-weight-ii) |
 <!---LeetCode Topics End-->
