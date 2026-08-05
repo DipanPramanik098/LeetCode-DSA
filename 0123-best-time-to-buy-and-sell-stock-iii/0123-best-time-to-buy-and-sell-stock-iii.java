@@ -41,6 +41,7 @@ class Solution {
         }
     }
 
+    // Bottom Up
     public static int bottomUp(int [] prices){
         int  n = prices.length, no_of_transaction = 2, buy = 1;
 
@@ -71,6 +72,39 @@ class Solution {
         }
         return dp[0][1][2];
     }
+
+    // Space Optimized
+        public static int so(int [] prices){
+        int  n = prices.length, no_of_transaction = 2, buy = 1;
+
+        // int [] [] [] dp = new int[n+1][2][3];
+        int [] [] prev = new int[2][3];
+        
+        for(int i=n-1; i>=0; i--){
+            // current row
+            int [] [] curr = new int[2][3];
+            for(int row[] : curr){
+                Arrays.fill(row, 0); // to handle base -> k =0 sab 0, i=n sab 0
+            }
+            for(int j=0; j<=buy; j++){
+                for(int k=1; k<= no_of_transaction; k++){  // k 1 se start hai karan no of transaction 0 is base case
+                    if(j==1){
+                        curr[j][k] = Math.max(
+                            -prices[i] + prev[0][k],
+                            prev[1][k]
+                        );
+                    }else{
+                        curr[j][k] = Math.max(
+                            prices[i] + prev[1][k-1],
+                            prev[0][k]
+                        );
+                    }
+                }
+            }
+            prev = curr;
+        }
+        return prev[1][2];
+    }
     public int maxProfit(int[] prices) {
         int i = 0, n = prices.length, no_of_transaction = 2, buy = 1;
         //Recursive Solution
@@ -86,7 +120,10 @@ class Solution {
         // }
         // return maxProfit1(i,n,buy, no_of_transaction, prices, dp);
 
-        // Bottom Up
-        return bottomUp(prices);
+        // // Bottom Up
+        // return bottomUp(prices);
+
+        // space Optimized
+        return so(prices);
     }
 }
