@@ -89,6 +89,7 @@
 | [0459-repeated-substring-pattern](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0459-repeated-substring-pattern) |
 | [0504-base-7](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0504-base-7) |
 | [0990-satisfiability-of-equality-equations](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0990-satisfiability-of-equality-equations) |
+| [1143-longest-common-subsequence](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/1143-longest-common-subsequence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
@@ -151,6 +152,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [1049-last-stone-weight-ii](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/1049-last-stone-weight-ii) |
+| [1143-longest-common-subsequence](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/1143-longest-common-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -232,4 +234,8 @@
 |  |
 | ------- |
 | [1049-last-stone-weight-ii](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/1049-last-stone-weight-ii) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
