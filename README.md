@@ -8,6 +8,7 @@
 | [0100-same-tree](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0207-course-schedule) |
+| [0547-number-of-provinces](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0785-is-graph-bipartite) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -19,6 +20,7 @@
 | [0207-course-schedule](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0207-course-schedule) |
 | [0279-perfect-squares](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0785-is-graph-bipartite) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -26,6 +28,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0207-course-schedule) |
+| [0547-number-of-provinces](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0785-is-graph-bipartite) |
 | [0990-satisfiability-of-equality-equations](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -78,6 +81,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0785-is-graph-bipartite) |
 | [0990-satisfiability-of-equality-equations](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
