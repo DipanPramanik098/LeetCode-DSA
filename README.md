@@ -7,6 +7,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0785-is-graph-bipartite) |
@@ -17,6 +18,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0207-course-schedule) |
 | [0279-perfect-squares](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0322-coin-change) |
@@ -56,6 +58,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0213-house-robber-ii) |
 | [0260-single-number-iii](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0260-single-number-iii) |
 | [0322-coin-change](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0322-coin-change) |
@@ -81,6 +84,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0785-is-graph-bipartite) |
 | [0990-satisfiability-of-equality-equations](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0990-satisfiability-of-equality-equations) |
@@ -201,6 +205,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0054-spiral-matrix) |
+| [0200-number-of-islands](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0200-number-of-islands) |
 | [1260-shift-2d-grid](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/1260-shift-2d-grid) |
 ## Simulation
 |  |
