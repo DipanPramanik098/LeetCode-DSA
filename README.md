@@ -72,6 +72,7 @@
 | [1049-last-stone-weight-ii](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/1049-last-stone-weight-ii) |
 | [1260-shift-2d-grid](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -259,4 +260,5 @@
 |  |
 | ------- |
 | [0260-single-number-iii](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0260-single-number-iii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
