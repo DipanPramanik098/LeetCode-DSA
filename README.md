@@ -22,6 +22,7 @@
 | [0207-course-schedule](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0207-course-schedule) |
 | [0279-perfect-squares](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0785-is-graph-bipartite) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -65,6 +66,7 @@
 | [0377-combination-sum-iv](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0377-combination-sum-iv) |
 | [0496-next-greater-element-i](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0746-min-cost-climbing-stairs) |
@@ -161,6 +163,7 @@
 | [0377-combination-sum-iv](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0377-combination-sum-iv) |
 | [0509-fibonacci-number](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0542-01-matrix) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [1049-last-stone-weight-ii](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/1049-last-stone-weight-ii) |
@@ -207,6 +210,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0542-01-matrix) |
 | [1260-shift-2d-grid](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/1260-shift-2d-grid) |
 ## Simulation
 |  |
