@@ -12,6 +12,7 @@
 | [0207-course-schedule](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0802-find-eventual-safe-states) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Breadth-First Search
@@ -27,6 +28,7 @@
 | [0542-01-matrix](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0802-find-eventual-safe-states) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Graph Theory
@@ -35,6 +37,7 @@
 | [0207-course-schedule](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0802-find-eventual-safe-states) |
 | [0990-satisfiability-of-equality-equations](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -42,6 +45,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0207-course-schedule) |
+| [0802-find-eventual-safe-states](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0802-find-eventual-safe-states) |
 ## Array
 |  |
 | ------- |
@@ -270,4 +274,12 @@
 | ------- |
 | [0260-single-number-iii](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0260-single-number-iii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
