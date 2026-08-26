@@ -148,6 +148,7 @@
 | [0504-base-7](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [1025-divisor-game](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/1025-divisor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -174,6 +175,7 @@
 | [0542-01-matrix](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0542-01-matrix) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0746-min-cost-climbing-stairs) |
+| [1025-divisor-game](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/1025-divisor-game) |
 | [1049-last-stone-weight-ii](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/1049-last-stone-weight-ii) |
 | [1143-longest-common-subsequence](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/1143-longest-common-subsequence) |
 ## Stack
@@ -282,4 +284,16 @@
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0802-find-eventual-safe-states) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
