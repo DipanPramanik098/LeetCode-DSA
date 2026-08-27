@@ -12,6 +12,7 @@
 | [0207-course-schedule](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0802-find-eventual-safe-states) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -28,6 +29,7 @@
 | [0542-01-matrix](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0802-find-eventual-safe-states) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -37,6 +39,7 @@
 | [0207-course-schedule](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0802-find-eventual-safe-states) |
 | [0990-satisfiability-of-equality-equations](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -175,6 +178,7 @@
 | [0542-01-matrix](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0542-01-matrix) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0746-min-cost-climbing-stairs) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1025-divisor-game](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/1025-divisor-game) |
 | [1049-last-stone-weight-ii](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/1049-last-stone-weight-ii) |
 | [1143-longest-common-subsequence](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/1143-longest-common-subsequence) |
@@ -296,4 +300,12 @@
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/1025-divisor-game) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
