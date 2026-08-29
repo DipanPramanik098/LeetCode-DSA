@@ -308,4 +308,8 @@
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
