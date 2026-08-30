@@ -11,6 +11,7 @@
 | [0130-surrounded-regions](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0207-course-schedule) |
+| [0226-invert-binary-tree](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -26,6 +27,7 @@
 | [0130-surrounded-regions](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0207-course-schedule) |
+| [0226-invert-binary-tree](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0542-01-matrix) |
@@ -240,12 +242,14 @@
 | [0100-same-tree](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0226-invert-binary-tree) |
 ## Enumeration
 |  |
 | ------- |
