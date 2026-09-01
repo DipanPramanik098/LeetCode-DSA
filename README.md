@@ -12,6 +12,7 @@
 | [0200-number-of-islands](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0226-invert-binary-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0547-number-of-provinces](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -243,6 +244,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0226-invert-binary-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -250,6 +252,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0226-invert-binary-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Enumeration
 |  |
 | ------- |
@@ -322,4 +325,8 @@
 | [0175-combine-two-tables](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0175-combine-two-tables) |
 | [0182-duplicate-emails](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0182-duplicate-emails) |
 | [0196-delete-duplicate-emails](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0196-delete-duplicate-emails) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 <!---LeetCode Topics End-->
