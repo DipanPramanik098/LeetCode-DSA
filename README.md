@@ -92,6 +92,7 @@
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -331,4 +332,8 @@
 |  |
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0501-find-mode-in-binary-search-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
