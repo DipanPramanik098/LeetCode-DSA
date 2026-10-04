@@ -123,6 +123,7 @@
 | [0459-repeated-substring-pattern](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0504-base-7) |
+| [0678-valid-parenthesis-string](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0990-satisfiability-of-equality-equations](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0990-satisfiability-of-equality-equations) |
 | [1143-longest-common-subsequence](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/1143-longest-common-subsequence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -189,6 +190,7 @@
 | [0509-fibonacci-number](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0542-01-matrix) |
+| [0678-valid-parenthesis-string](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -200,6 +202,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0678-valid-parenthesis-string) |
 ## Linked List
 |  |
 | ------- |
@@ -229,6 +232,7 @@
 | ------- |
 | [0055-jump-game](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0678-valid-parenthesis-string](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -342,4 +346,8 @@
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/3903-smallest-stable-index-i) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
