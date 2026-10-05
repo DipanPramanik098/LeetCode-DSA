@@ -124,6 +124,7 @@
 | [0500-keyboard-row](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0504-base-7) |
 | [0678-valid-parenthesis-string](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0856-score-of-parentheses) |
 | [0990-satisfiability-of-equality-equations](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0990-satisfiability-of-equality-equations) |
 | [1143-longest-common-subsequence](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/1143-longest-common-subsequence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -203,6 +204,7 @@
 | [0032-longest-valid-parentheses](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0856-score-of-parentheses) |
 ## Linked List
 |  |
 | ------- |
@@ -350,4 +352,5 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
