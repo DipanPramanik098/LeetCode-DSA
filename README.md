@@ -95,6 +95,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
@@ -177,6 +178,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/3536-maximum-product-of-two-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/3783-mirror-distance-of-an-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/3875-construct-uniform-parity-array-i) |
