@@ -104,6 +104,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0146-lru-cache) |
 | [0496-next-greater-element-i](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0500-keyboard-row) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -226,6 +227,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0146-lru-cache) |
 ## Recursion
 |  |
 | ------- |
@@ -372,4 +374,12 @@
 | [0678-valid-parenthesis-string](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/DipanPramanik098/LeetCode-DSA/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
